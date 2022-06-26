@@ -1,0 +1,10 @@
+# backend
+numpy
+numba
+flatbuffers
+
+# frontend
+tk
+
+# tic tac toe
+pandas

@@ -1,0 +1,3 @@
+#!C:\Users\asmab\OneDrive\Bureau\ESGI_S2\DRL\Exemple_structure_projet\drl_sample_project_python\env\Scripts\python.exe
+from numba.pycc import main
+main()
